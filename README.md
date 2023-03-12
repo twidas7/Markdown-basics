@@ -1,29 +1,29 @@
 # API
 ## _A Complete Guide_
 
-[![**API**](https://www.istockphoto.com/photo/api-application-programming-interface-software-development-tool-business-modern-gm1317706831-405059780)](https://www.ibm.com/products/api-connect?utm_content=SRCWW&p1=Search&p4=43700074852186280&p5=e&gclid=Cj0KCQiAjbagBhD3ARIsANRrqEteJ9Di27JuzbT9zuy6IdrOTbsBpVwU27_OfaIRsjdwx-Vy8vjyhoYaAq2xEALw_wcB&gclsrc=aw.ds)
+![TWINKLE](MARKDOWN-BASICS/../TDProfile%20Photo.png)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 An **application programming interface (API)** is a way for two or more computer programs to communicate with each other. It is a type of software interface, _offering_ a service to other pieces of software.[1] A document or standard that describes how to build or use such a connection or interface is called an *API specification*. A computer system that meets this standard is said to implement or expose an API. The term ***API*** may refer either to the specification or to the implementation.
 In contrast to a user interface, which connects a computer to a person, an application programming interface connects computers or pieces of software to each other. It is not intended to be used directly by a person __(the end user)__ other than a computer programmer who is incorporating it into the software. An API is often made up of different parts which act as tools or services that are available to the programmer. A program or a programmer that uses one of these parts is said to call that portion of the API. The calls that make up the API are also known as `subroutines, methods, requests, or endpoints`. An API specification defines these calls, meaning that it explains how to use or implement them.
 
-```The term API initially described an interface only for end-user-facing programs, known as application programs.
+The term API initially described an interface only for end-user-facing programs, known as application programs.
 This origin is still reflected in the name "application programming interface." 
-Today, the term is broader, including also utility software and even hardware interfaces.```
+Today, the term is broader, including also utility software and even hardware interfaces.
 
 - Type some Markdown on the left
 - See HTML in the right
     - dss
-    - 
+    - dfghgf
+    - lfddbfd
+
 - ✨Magic ✨
 1. csd
 2. da
 3. fv cf
 4. ghj
-5. 
 
-ds
 ## Features
 
 - Import a HTML file and watch it magically convert to Markdown
@@ -48,9 +48,6 @@ This text you see here is *actually- written in Markdown! To get a feel
 for Markdown's syntax, type some text into the left window and
 watch the results in the right.
 
-```
-def page
-    puts "TWT!"
 
 
 Name | Game | Country
